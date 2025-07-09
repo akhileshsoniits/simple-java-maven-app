@@ -1,4 +1,6 @@
-pipeline
+ /* jenkins handson  */
+ 
+ pipeline
 {
 
 agent {
